@@ -4,7 +4,7 @@ This project is a Bookstore API built using Node.js, Express, and the Google Boo
 Function Descriptions
 General Endpoint
 
-###GET /:
+### GET /:
 Sends a welcome message to the user indicating the API is accessible.
 Bookstore API Endpoints
 
