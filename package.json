@@ -1,0 +1,25 @@
+{
+  "name": "peer_project",
+  "version": "1.0.0",
+  "description": "Na",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "serve": "node app.js",
+    "dev": "nodemon app.js"
+  },
+  "author": "Himavanth Kumar Perni",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.7.3",
+    "body-parser": "^1.20.2",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "firebase": "^10.12.5",
+    "firebase-admin": "^12.3.0",
+    "peer_project": "file:"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.4"
+  }
+}
